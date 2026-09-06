@@ -1,11 +1,11 @@
 
 import motor.motor_asyncio
 import base64
-from config import DB_URI, DB_NAME
+from config import DB_URL, DB_NAME
 from datetime import datetime, timedelta
 from typing import List, Optional
 
-dbclient = motor.motor_asyncio.AsyncIOMotorClient(DB_URI)
+dbclient = motor.motor_asyncio.AsyncIOMotorClient(DB_URL)
 database = dbclient[DB_NAME]
 
 # collections
