@@ -30,24 +30,24 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 START_PIC = "https://i.ibb.co/Wvrb15XR/890a2b4ae625.jpg"
 START_IMG = "https://i.ibb.co/Wvrb15XR/890a2b4ae625.jpg"
 # Messages
-START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Anime_Hub_Tamil'>Eren Family☺️ </a></blockquote></b>")
-HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/ZENCURSE>ZENCURSE</a>\n» Our Community: <a href=https://t.me/AniPlex_Tamil>AniPlex Network</a>\n» Anime Channel: <a href=https://t.me/Anime_Hub_Tamil>Anime Network</a>\n» Ongoing Anime: <a href=https://t.me/Anime_Hub_Tamil>Ongoing Anime Hub</a>\n» Developer: <a href=https://t.me/ZENCURSE>Zen Developer🧑‍💻</a></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/CodeRips'>Code Rips🐈‍⬛ </a></blockquote></b>")
+HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/ZENCURSE>ZENCURSE</a>\n» Our Community: <a href=https://t.me/CodeRips>CodeRips Network</a>\n» Anime Channel: <a href=https://t.me/ANIME_VERSE_IN_TAMIL>ANIMEVERSE</a>\n» Ani Network Tamil: <a href=https://t.me/ANI_NETWORK_TAMIL>Ani Network Tamil</a>\n» Developer: <a href=https://t.me/ZENCURSE>Zen Developer🧑‍💻</a></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Zencurse (@ZENCURSE) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
-ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/Anime_Hub_Tamil'>Anime Hub/a>
-<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/Anime_Hub_Tamil'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
-›› ᴏᴡɴᴇʀ: <a href='https://t.me/Eren_157'>Eren</a>
+ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/CodeRips'>Code Rips🕷️/a>
+<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/CodeRips'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
+›› ᴏᴡɴᴇʀ: <a href='https://t.me/ZENCURSE'>𓂃❛ ᘔ ᴇ ᑎ ᴄ ᴜ ʀ s ᴇ 𓂃ֶꪳ ִֶ𐙚˚ˎ˗</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ZENCURSE</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/Anime_Hub_Tamil'>ᴍᴏᴠɪᴇ and anime sᴘᴏᴛ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/AniPlex_Tamil'>Ani Plex Tamil</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/Anime_Hub_Tamil'>anime ʜᴜʙ</a>
-›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/Anime_Hub_Tamil'>ᴘᴏʀɴʜᴡᴀ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/Anime_Hub_Tamil'>ᴏᴛᴀᴋᴜғʟɪx</a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ANIME_VERSE_IN_TAMIL'>𝗔𝗡𝗜𝗠𝗘 𝗩𝗘𝗥𝗦𝗘</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/ANIME_VERSE_TAMIL'>ᴍᴏᴠɪᴇ and anime sᴘᴏᴛ</a>
+›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/ANI_FLIX_TAMIL'>Ani Flix Tamil</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/ANIME_VERSE_IN_TAMIL'>anime ʜᴜʙ</a>
+›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a hrefhttps://t.me/ANIME_VERSE_IN_TAMIL'>ᴘᴏʀɴʜᴡᴀ</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/CodeRips'>CodeRips</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ZENCURSE</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
