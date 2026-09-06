@@ -27,8 +27,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 # Start pic
-START_PIC = "https://ibb.co/hJHGFfxs"
-START_IMG = "https://ibb.co/hJHGFfxs"
+START_PIC = "https://i.ibb.co/Wvrb15XR/890a2b4ae625.jpg"
+START_IMG = "https://i.ibb.co/Wvrb15XR/890a2b4ae625.jpg"
 # Messages
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Anime_Hub_Tamil'>Eren Family☺️ </a></blockquote></b>")
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/ZENCURSE>ZENCURSE</a>\n» Our Community: <a href=https://t.me/AniPlex_Tamil>AniPlex Network</a>\n» Anime Channel: <a href=https://t.me/Anime_Hub_Tamil>Anime Network</a>\n» Ongoing Anime: <a href=https://t.me/Anime_Hub_Tamil>Ongoing Anime Hub</a>\n» Developer: <a href=https://t.me/ZENCURSE>Zen Developer🧑‍💻</a></b>")
