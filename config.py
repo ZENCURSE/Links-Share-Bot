@@ -14,7 +14,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6426143861"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
-DB_URI = os.environ.get("DB_URI", "")
+DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 #Auto approve 
